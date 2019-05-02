@@ -1,3 +1,6 @@
+# TE Session 5, write a program to fetch the source code of the Donald Trump wikipedia article and replace all instances
+# of his name with `Puppies` and all the images with images of puppies
+
 import requests
 import re
 
